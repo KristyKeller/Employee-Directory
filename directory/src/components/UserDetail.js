@@ -17,9 +17,9 @@ function UserDetail(props) {
         {props.results.map(result => (
           <tr key={result.login.uuid}>
             <td><img alt="" src={result.picture.thumbnail} /></td>
-            <td><h3>{result.name.first + " " + result.name.last}</h3></td>
-            <td><h3>{result.email}</h3></td>
-            <td><h3>{result.phone}</h3></td>
+            <td><p>{result.name.first + " " + result.name.last}</p></td>
+            <td><p>{result.email}</p></td>
+            <td><p>{result.phone}</p></td>
           </tr>
         ))}
       </tbody>

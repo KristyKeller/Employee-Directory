@@ -20,7 +20,7 @@
 * [Questions](#questions)
 
 ## Screenshots 
-![screenshot1](./assets/images/.png)
+![screenshot1](./assets/images/screenshot.jpeg)
 
 
 ## Application Description
@@ -42,10 +42,10 @@ Use the live application via the Heroku link provided above
 
 ```
 ## Demo
-![directory]()
+![directory](https://media.giphy.com/media/NgNQ5b0iT4Me6SSFWO/giphy.gif)
 
 ## Built With
-* React.js 
+* React
 * Heroku
 * Axios 
 * RandomUser API 

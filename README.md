@@ -20,7 +20,7 @@
 * [Questions](#questions)
 
 ## Screenshots 
-![screenshot1](./assets/images/screenshot.jpeg)
+![screenshot1](./images/screenshot.JPG)
 
 
 ## Application Description
